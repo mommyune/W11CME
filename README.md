@@ -19,10 +19,10 @@ Press 3 to close the menu
 
 # Preview
 
-![Windows 10 to Windows 11](https://youtu.be/NNftV_7xvNA)
+[Windows 10 to Windows 11](https://youtu.be/NNftV_7xvNA)
 
 
-![Windows 10 to Windows 11](https://youtu.be/qA3wvVBMXvQ)
+[Windows 10 to Windows 11](https://youtu.be/qA3wvVBMXvQ)
 
 Terminal/cmd
 
