@@ -22,7 +22,7 @@ Press 3 to close the menu
 [Windows 10 to Windows 11](https://youtu.be/NNftV_7xvNA)
 
 
-[Windows 10 to Windows 11](https://youtu.be/qA3wvVBMXvQ)
+[Windows 11 to Windows 10](https://youtu.be/qA3wvVBMXvQ)
 
 Terminal/cmd
 
