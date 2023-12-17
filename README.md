@@ -17,6 +17,10 @@ Press Q to close the menu
 
 # Preview
 
+Youtube Showcase
+
+[Youtube Video](https://youtu.be/PxLUQ7-6Bqk)
+
 Terminal
 
 ![Terminal](https://github.com/mommyune/W11CME/assets/99808967/ef8b94c4-7775-4f16-bb06-c0261f9614a7)
