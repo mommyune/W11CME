@@ -1,7 +1,5 @@
 # UPDATED AMD MOVED
-https://zelez.net/projects/zwu
-
-https://git.zelez.net/zelez/zwu
+[https://zelez.net/projects/zwu](zelez.net/p/wu)
 
 # W11CME
 Windows 11 Context menu editor.
