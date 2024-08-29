@@ -6,7 +6,7 @@ Windows 11 Context menu editor.
 
 A batch file to change the look of your Windows 11 context (right click) menu.
 
-# How to use
+## How to use
 
 Download and open the batch file (W11CME.bat)
 
@@ -18,7 +18,7 @@ Press R to restart the menu
 
 Press Q to close the menu
 
-# Preview
+## Preview
 
 Youtube Showcase
 
@@ -36,6 +36,6 @@ Windows 10 Context menu style
 
 ![10](https://github.com/mommyune/W11CME/assets/99808967/1d068dbb-c2b2-4598-b2bb-14c8fbe1bbc4)
 
-# License
+## License
 
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
