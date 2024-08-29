@@ -1,4 +1,4 @@
-# UPDATED AMD MOVED
+# UPDATED AND MOVED
 [Link to page](https://zelez.net/app/windows-utility/)
 
 # W11CME
