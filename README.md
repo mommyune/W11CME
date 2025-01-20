@@ -1,5 +1,5 @@
 # UPDATED AND MOVED
-[Link to page](https://zelez.net/app/windows-utility/)
+[Link to page](https://zelez.net/software/windows-utility)
 
 # W11CME
 Windows 11 Context menu editor.
